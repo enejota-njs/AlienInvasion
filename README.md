@@ -1,0 +1,3 @@
+This project is an academic work developed based on the explanations and guidelines in the book Python Crash Course, by Eric Matthes. The program itself was not originally created by me; it was written as part of my learning process, following the projects and examples presented in the book. However, some adaptations and details were implemented according to my own choices and decisions, aiming to personalize and enrich the final result.
+
+I appreciate your interest in this work and I hope it serves as a reference or inspiration for other projects. If you have any questions or suggestions, feel free to contribute or contact me.
